@@ -1,1 +1,1 @@
-# create_ec2_instance_using_terraform
+# Terraform Code - How to Create EC2 Instance using Terraform 
